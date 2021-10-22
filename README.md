@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**AliceKLWilliams/AliceKLWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alice (she/her) and I'm a full stack developer.
 
-Here are some ideas to get you started:
+- 🎵 I'm currently working on a [Spotify Clone](https://github.com/AliceKLWilliams/spotify-clone) using React.js and the Spotify API
+- 🎓 I'm also working on creating a Learner Management System using Laravel and Inertia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find out about more of my projects on my [website](www.alicewilliams.uk/).
+
+#### Skills
+- React
+- JavaScipt
+- PHP
+- Laravel
+- Node.js
+- Alpine.js
+- WordPress
+- Semantic HTML
+- SCSS
