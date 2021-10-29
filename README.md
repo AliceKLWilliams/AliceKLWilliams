@@ -9,7 +9,7 @@ Find out about more of my projects on my [website](http://www.alicewilliams.uk/)
 
 #### Skills
 - React
-- JavaScipt
+- JavaScript
 - PHP
 - Laravel
 - Node.js
